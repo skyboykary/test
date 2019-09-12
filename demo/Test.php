@@ -10,6 +10,11 @@ class Test extends GOMS_Controller {
     
     public function test()
     {
-    	var_dump(123);die;
+    	var_dump(123231);die;
+    }
+
+    public function test()
+    {
+    	var_dump(123456);die;
     }
 }
