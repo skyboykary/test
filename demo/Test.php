@@ -13,7 +13,7 @@ class Test extends GOMS_Controller {
     {
     	var_dump('this is test22');
     	var_dump(3333333333);
-    	var_dump('this is test beta');
+    	var_dump('this is test beta11111111555555555555555555');
     }
     public function tip2()
     {
