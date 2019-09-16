@@ -8,10 +8,12 @@ class Test extends GOMS_Controller {
         parent::__construct();
     }
     
+    
     public function tip()
     {
     	var_dump('this is test22');
     	var_dump(3333333333);
+    	var_dump('this is test beta');
     }
     public function tip2()
     {
